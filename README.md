@@ -12,6 +12,6 @@ Categorização: Classifique seus gastos para melhor controle.
 🛠 Tecnologias Utilizadas
 Frontend: HTML, CSS, JavaScript
 
-Backend: Node.js (se aplicável)
+Backend: Node.js 
 
 Feito com 💙 por J.Klaiven
